@@ -5,8 +5,7 @@ cinst fiddler4
 cinst git-credential-winstore
 cinst console-devel
 cinst sublimetext2
-cinst poshgit
-cinst dotpeek
+
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
 cinst IIS-WebServerRole -source windowsfeatures
