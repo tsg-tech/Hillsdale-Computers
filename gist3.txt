@@ -1,6 +1,0 @@
-cinst adobereader -force
-
-
-
-
-
