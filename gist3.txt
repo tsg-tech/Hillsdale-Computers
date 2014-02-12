@@ -1,5 +1,4 @@
--force
-cinst adobereader
+cinst adobereader -force
 
 
 
