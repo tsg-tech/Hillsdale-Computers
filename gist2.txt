@@ -1,3 +1,8 @@
-cinst javaruntime
+
 cinst adobereader
-cinst ccleaner
+cinst flashplayeractivex
+cinst AdobeAIR
+cinst adobeshockwaveplayer
+cinst GoogleChrome
+cinst windowsrepair
+ 
