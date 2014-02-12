@@ -7,7 +7,7 @@ cinst AdobeAIR
 cinst adobeshockwaveplayer
 cinst GoogleChrome
 cinst windowsrepair
- 
+cinst javaruntime
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
 cinst IIS-WebServerRole -source windowsfeatures
