@@ -5,6 +5,4 @@ Enable-RemoteDesktop
 cinst flashplayerplugin 
 
 
-cinst Microsoft-Hyper-V-All -source windowsFeatures
-cinst IIS-WebServerRole -source windowsfeatures
 
