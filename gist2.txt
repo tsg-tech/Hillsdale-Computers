@@ -2,7 +2,6 @@ Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showFile
 Enable-RemoteDesktop
 
 cinst adobereader
-cinst flashplayeractivex
 cinst AdobeAIR
 cinst adobeshockwaveplayer
 cinst GoogleChrome
